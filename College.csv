@@ -1,0 +1,51 @@
+college_id,college_name,placement_rate,avg_package
+1001,IISc Bangalore,0.99,24
+1002,IIT Hyderabad,0.96,21
+1003,IIT Indore,0.94,19
+1004,IIT Bhubaneswar,0.93,18
+1005,IIT Jodhpur,0.91,17
+1006,IIT Patna,0.9,16
+1007,IIT Ropar,0.89,15
+1008,NIT Rourkela,0.87,13
+1009,NIT Kurukshetra,0.86,12
+1010,NIT Durgapur,0.85,11
+1011,NIT Silchar,0.83,10
+1012,IIIT Delhi,0.91,14
+1013,IIIT Allahabad,0.9,13
+1014,IIITDM Kancheepuram,0.88,12
+1015,DAIICT Gandhinagar,0.87,11
+1016,Amrita Vishwa Vidyapeetham,0.82,9
+1017,SASTRA University,0.8,8
+1018,Bennett University,0.76,7
+1019,PSG College of Technology,0.84,10
+1020,BITS Dubai,0.92,20
+1021,BITS Mauritius,0.89,17
+1022,Shoolini University,0.78,8
+1023,Parul University,0.69,5
+1024,Jain University,0.73,6
+1025,Chitkara University,0.71,5.5
+1026,Ashoka University,0.85,11
+1027,RV College of Engineering,0.88,12
+1028,Heritage Institute of Technology,0.82,9
+1029,Cochin University of Science and Technology,0.84,10
+1030,Guru Nanak Dev Engineering College,0.8,8
+1031,Siddaganga Institute of Technology,0.79,8
+1032,New Horizon College of Engineering,0.78,7
+1033,CMR University,0.77,7
+1034,Silicon Institute of Technology,0.76,7
+1035,Noida Institute of Engineering and Technology,0.75,6
+1036,Lovely Professional University,0.74,6
+1037,ICFAI University,0.73,6
+1038,Vishwakarma Institute of Technology,0.83,9
+1039,Ajeenkya DY Patil University,0.79,7
+1040,Institute of Engineering and Management Kolkata,0.85,11
+1041,Jamia Hamdard,0.86,12
+1042,Banaras Hindu University,0.9,14
+1043,Andhra University,0.81,9
+1044,Pondicherry University,0.82,10
+1045,GLA University,0.72,6
+1046,Mallareddy University,0.74,6
+1047,Alliance University,0.83,10
+1048,Techno India University,0.8,8
+1049,SRM AP University,0.79,7
+1050,KR Mangalam University,0.76,6
